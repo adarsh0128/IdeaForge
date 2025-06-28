@@ -1,2 +1,4 @@
-export const BACKEND_URL: string = import.meta.env.VITE_BACKEND_URL as string;
-export const FRONTEND_URL: string = import.meta.env.VITE_FRONTEND_URL as string;
+export const BACKEND_URL: string =
+  "https://ideaforge-st80.onrender.com" as string;
+export const FRONTEND_URL: string =
+  "https://idea-forge-delta.vercel.app/" as string;
